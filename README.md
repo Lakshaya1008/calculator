@@ -1,3 +1,3 @@
 # calculator
 
-calculator is tool usedm to calculate maths problems
+calculator is tool used to calculate maths problems
